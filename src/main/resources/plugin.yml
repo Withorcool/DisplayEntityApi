@@ -1,0 +1,5 @@
+name: DisplayEntityApi
+version: '${project.version}'
+main: com.withorcc.displayentityapi.DisplayEntityApi
+api-version: '1.20'
+load: STARTUP
